@@ -1,5 +1,5 @@
 @echo off
 echo Starting the app...
 set PYTHONPATH=%CD%
-python ccn_helper/app.py
+python -m ccn_helper.app
 pause
