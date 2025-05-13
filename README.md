@@ -19,13 +19,18 @@ A desktop app that visually reads your screen’s chess board, detects the curre
 - Rename it to: `stockfish.exe`
 - Place it in this same folder
 
-### 3. Install Dependencies
+### 3. Install Dependencies / Check Setup
 
 - Double-click this file:
 
 ```
 setup.bat
 ```
+
+- Install any dependencies it determines you're missing. Then rerun
+- Once the setup says you're good to go, move onto the next step
+
+---
 
 ### 4. Run the App
 
