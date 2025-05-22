@@ -1,8 +1,8 @@
 import torch
 import numpy as np
 from PIL import Image
-from ccn_helper.dataset import PIECE_TO_IDX
-from ccn_helper.ccn_model import CCN
+from dataset import PIECE_TO_IDX
+from ccn_model import CCN
 
 
 
