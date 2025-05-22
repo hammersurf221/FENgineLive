@@ -10,7 +10,7 @@ import chess.svg
 import cairosvg
 from stockfish import Stockfish
 import io
-from ccn_helper.fen_predictor import load_model, load_image, predict_fen
+from fen_predictor import load_model, load_image, predict_fen
 import subprocess
 import sys
 import platform
